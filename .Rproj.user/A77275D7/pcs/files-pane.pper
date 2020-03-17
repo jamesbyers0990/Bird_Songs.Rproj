@@ -1,0 +1,9 @@
+{
+    "path" : "~/Bird Songs",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
